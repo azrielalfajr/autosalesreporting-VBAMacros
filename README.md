@@ -16,19 +16,19 @@ Data was generated using Faker package on Python.
 - Enable Macros: Make sure to enable macros for the VBA scripts to run.
 
 ## Usage
-Open the master VBA-Macros file VBA-Challenge-Template.xlsm, Within this file, there are three worksheets:
+Open the master VBA-Macros file *VBA-Challenge-Template.xlsm*, Within this file, there are three worksheets:
 - "Dasbor": This is where all the data landed and visualized
 - "PivotTable": This sheet is used to analyze the raw data before we visualize them
 - "Import Data": This is the sheet when we want to import our very first table using the "Add new data" menu and also when we want to update our latest data on the "Update an existing data" menu.
 
-### When uploading the first table (on the RawData > FirstUpload folder), you need to upload in the following order:
+### When uploading the first table (on the RawData > Upload First folder), you need to upload in the following order:
 1. "CustomerData" table
 2. "ProductData" table
 3. "SalesData" table
-After that, you can upload additional data in the "Additional" folder without having to follow the order.
+<b> After that, you can upload additional data in the "Additional" folder without having to follow the order. </b>
 
 ## File List
-1. RawData: includes "FirstUpload" folder and "Additional" folder
+1. RawData: includes "Upload First" folder and "Additional" folder
 2. Color-palette: The palette used for the dashboard
 3. VBA-Challenge-Template.xlsm: the work-file template
 
