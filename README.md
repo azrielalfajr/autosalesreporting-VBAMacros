@@ -25,7 +25,7 @@ Open the master VBA-Macros file *VBA-Challenge-Template.xlsm*, Within this file,
 1. "CustomerData" table
 2. "ProductData" table
 3. "SalesData" table
-<b> After that, you can upload additional data in the "Additional" folder without having to follow the order. </b>
+\n After that, you can upload additional data in the "Additional" folder without having to follow the order.
 
 ## File List
 1. RawData: includes "Upload First" folder and "Additional" folder
