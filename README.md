@@ -3,6 +3,9 @@ Automated Sales Reporting using VBA Macros streamlines sales data processing in 
 
 Click here to see the file with completed data: https://tinyurl.com/VBA-SalesReport
 
+## About Data
+Data was generated using Faker package on Python.
+
 ## Features
 - Automated Data Import: Automatically updates sales data from local sources, compatible with .csv and .xlsx filetype.
 - Data Cleaning and Preparation: Cleans and organizes raw data for consistent analysis.
